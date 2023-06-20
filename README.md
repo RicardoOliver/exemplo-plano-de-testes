@@ -24,8 +24,11 @@
 
 ### 1. 	Visão Geral:
 • __Escopo do Teste:__ O teste abrange todos os aspectos funcionais do software de investimento Agro, incluindo a criação de contas de investidores, gerenciamento de carteiras, análise de risco, cálculos de retornos e relatórios financeiros.
+
 •	__Premissas e Restrições:__ Os testes serão conduzidos em um ambiente de teste separado, utilizando dados fictícios de investidores e transações.
+
 •	__Organização Responsável:__ Equipe de Teste do Departamento de Qualidade de Software.
+
 •	__Stakeholders:__ Equipe de Desenvolvimento, Gerentes de Projeto, Gerentes de Produto.
 
 ### 2.	Identificador Único:
