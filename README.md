@@ -50,7 +50,7 @@
 •	Lista detalhada dos itens de teste, incluindo as funcionalidades específicas do software de investimento Agro a serem testadas, como criação de conta de investidor, compra e venda de ativos, cálculo de risco, geração de relatórios financeiros, entre outros.
 
 
-##### __Esse exemplo representa uma estrutura básica para um Plano de Testes, seguindo as orientações do ISO 29119-3. É importante adaptar e personalizar o plano de acordo com as necessidades e requisitos específicos do software de investimento Agro e da organização envolvida no projeto.__
+## __Esse exemplo representa uma estrutura básica para um Plano de Testes, seguindo as orientações do ISO 29119-3. É importante adaptar e personalizar o plano de acordo com as necessidades e requisitos específicos do software de investimento Agro e da organização envolvida no projeto.__
 
 
 
