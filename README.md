@@ -1,7 +1,7 @@
 # Plano de testes
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Plano de Testes segundo ISSO-29119-3
+## Plano de Testes segundo ISO-29119-3
  - Visão geral                                                                           
  - dentificador único                                  
  - Organização responsável                         
