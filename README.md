@@ -3,15 +3,15 @@
 
 ## Plano de Testes segundo ISO-29119-3
  - Visão geral                                                                           
- - dentificador único                                  
+ - Identificador único                                  
  - Organização responsável                         
  - Aprovadores                                               
- - istórico de mudanças                             
+ - Histórico de mudanças                             
  - Escopo geral                                               
  - Referências                                                 
  - Glossário de Termos
  - Projetos ou subprocessos de teste
- - tem(ns) de teste
+ - Item(ns) de teste
  - Escopo do teste  
  - Premissas e restrições
 -  Stakeholders
